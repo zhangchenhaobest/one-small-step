@@ -1,3 +1,29 @@
+# one-small-step
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A short-form tech popularization project explaining interesting frontier concepts and principles in five-minute articles.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+简单的技术科普教程项目，用 5 分钟一篇解释有趣的前沿技术概念与原理。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 One Small Step 
 --------------
 
